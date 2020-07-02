@@ -17,7 +17,6 @@ FIFObuffer DUT
 (
 	.data_in(data_in),
 	.clk(clk),
-	.en(en),
 	.re(re),
 	.rst(rst),
 	.we(we),
